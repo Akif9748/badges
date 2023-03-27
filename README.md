@@ -1,6 +1,8 @@
 # badges
 Forked from camroku
 
+[Source](https://github.com/Ileriayo/markdown-badges)
+
 ## Badges
 This is the 'Other' badge:
 | Name | URL | Badge |
